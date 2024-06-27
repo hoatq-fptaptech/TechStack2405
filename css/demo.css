@@ -1,12 +1,3 @@
-.a{
-    color: deeppink;
-}
-.b{
-    background-color: gray;
-}
-.c{
-    margin: 10px;
-}
-.d{
-    padding: 10px;
+body{
+    font-family: "Playwrite ES Deco", cursive;
 }
